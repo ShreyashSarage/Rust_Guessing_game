@@ -4,7 +4,7 @@
 
 
 ### How to Run:
-    - Clone the repo to the local system 
-    - Then in the terminal run the below commands
+- Clone the repo to the local system 
+- Then in the terminal run the below commands
        - cargo build
        - cargo run 
